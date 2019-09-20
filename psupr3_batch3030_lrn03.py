@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 14 14:28:46 2019
+@author: Ong Boon Ping (A0195172B), Tan Chin Gee (A0195296M), & Han Dongchou Francis (A0195414A) 
 
-@author: handc
 """
 
 import numpy as np
