@@ -34,9 +34,16 @@ Pre-requisites
 Anaconda with Python 3.7
 Using ml1P13 environment 
 
-Submission:
+Instruction
+
+Save the zipped file in a folder
+Unzip all the files in the same folder
+RUn the Python file 
+
+Submission: a zipped file containing the following
 
 1) Python code written and tested in Spyder editor
 2) Data File
 3) PPT file - project report/documentation
+4) Miscellaneous files
 
